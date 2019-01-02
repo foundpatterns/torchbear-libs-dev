@@ -1,0 +1,8 @@
+imports = {
+    inspect = "third-party/",
+}
+
+inspect = {
+    url = "https://github.com/kikito/inspect.lua",
+    pluck = "inspect.lua",
+}
