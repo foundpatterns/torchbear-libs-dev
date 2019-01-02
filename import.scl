@@ -1,5 +1,5 @@
 imports = {
-    inspect = "third-party/",
+    inspect = ".",
 }
 
 inspect = {
